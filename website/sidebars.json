@@ -1,10 +1,20 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Початок": [
+      "index"
+    ],
+    "Комплекс": [
+      "complex/index",
+      "complex/management",
+      "complex/special-offers"
+    ],
+    "Прийом робіт": [
+      "acceptance/view",
+      "acceptance/complains",
+      "acceptance/acceptance"
+    ],
+    "Ремонт": [
+      "construction/rules"
+    ]
   }
 }
