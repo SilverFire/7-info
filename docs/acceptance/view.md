@@ -9,14 +9,10 @@ title: Перегляди
 
 ## Будинок 1
 
-### 08.08.2019 – Перегляди розпочато
-
-[Розклад](https://docs.google.com/spreadsheets/d/1DXK-aw3B0iALOiFtubqJXZ3Sss4aDoEwgyiGpEnoXS0/edit#gid=0)
-
-Поки без можливості зайти на ремонт негайно, доки не будуть завершені гідравлічні випробування системи опалення.
+Хронологія новин:
+- **23.08.2019**: З 27.08 можна будет отримати ключі для заходу на ремонт [обговорення](https://t.me/Seven_chat/25106)
+- **08.08.2019**: Перегляди розпочато. [Розклад](https://docs.google.com/spreadsheets/d/1DXK-aw3B0iALOiFtubqJXZ3Sss4aDoEwgyiGpEnoXS0/edit#gid=0)
 
 ## Будинок 2
 
-### 23.08.2019 — Заплановано перегляди на 27.08.2019
-
-[Розклад](https://docs.google.com/spreadsheets/d/1C3wSpgtl3nW6l5f_vqWdwfnDVhAS0YuCwSlMXC3gcUc/edit#gid=0)
+- **23.08.2019**: Заплановано перегляди на 27.08.2019, [розклад тут](https://docs.google.com/spreadsheets/d/1C3wSpgtl3nW6l5f_vqWdwfnDVhAS0YuCwSlMXC3gcUc/edit#gid=0). Якщо претензій немає, можна одразу отримати ключі на ремонт [обговорення](https://t.me/Seven_chat/25106)
