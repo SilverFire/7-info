@@ -2,7 +2,7 @@
 
 ### Як вносити зміни
 
-Тести сторінок зберігаються тут: https://github.com/SilverFire/7-info/tree/master/docs
+Тексти сторінок зберігаються тут: https://github.com/SilverFire/7-info/tree/master/docs
 
 Статичний контент можна класти сюди: https://github.com/SilverFire/7-info/tree/master/website/static/wiki
 
