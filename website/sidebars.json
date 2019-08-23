@@ -11,8 +11,8 @@
     ],
     "Прийом робіт": [
       "acceptance/view",
-      "acceptance/complains",
-      "acceptance/acceptance"
+      "acceptance/acceptance",
+      "acceptance/complains"
     ],
     "Ремонт": [
       "construction/rules"
