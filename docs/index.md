@@ -16,3 +16,7 @@ title: Головна
 - [Будинок 4](https://t.me/Seven_4)
 - [Будинок 5](https://t.me/joinchat/AAAAAFgloUiHjmnzdX1uEg)
 - [Будинок 6](https://t.me/joinchat/Ajk1fhI7RNJoxCeZ5RJ5mA)
+
+## Як доповнити цю базу знань?
+
+Заходьте в [репозиторій проекту на GitHub](https://github.com/SilverFire/7-info) і створюуйте Pull-Request’и :)
