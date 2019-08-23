@@ -21,6 +21,16 @@ const users = [
 ];
 
 const siteConfig = {
+  cname: '7-info.pp.ua',
+  gaTrackingId: 'UA-123514728-4',
+  gaGtag: true,
+  editUrl: 'https://github.com/SilverFire/7-info/edit/master/docs/',
+
+  // algolia: {
+  //   apiKey: '',
+  //   indexName: '7-info',
+  // },
+
   title: 'ЖК Seven', // Title for your website.
   tagline: 'Портал комплексу',
   url: 'https://7-info.pp.ua', // Your website URL
@@ -42,6 +52,7 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     {blog: true, label: 'Новини'},
+    // { search: true }
   ],
 
   // If you have users set above, you add it here:
