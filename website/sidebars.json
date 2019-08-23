@@ -6,6 +6,7 @@
     "Комплекс": [
       "complex/index",
       "complex/management",
+      "complex/service-providers",
       "complex/special-offers"
     ],
     "Прийом робіт": [

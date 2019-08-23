@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'ЖК Seven', // Title for your website.
-  tagline: 'База знань',
+  tagline: 'Портал комплексу',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -41,7 +41,7 @@ const siteConfig = {
     {doc: 'index', label: 'Знання'},
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {blog: true, label: 'Новини'},
   ],
 
   // If you have users set above, you add it here:
