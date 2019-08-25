@@ -1,3 +1,5 @@
+[![](https://api.travis-ci.com/SilverFire/7-info.svg?branch=master)](https://travis-ci.com/SilverFire/7-info)
+
 ## Репозиторій інформаційного порталу 7-info
 
 ### Як вносити зміни
