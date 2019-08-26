@@ -26,7 +26,28 @@ title: Інформація про комплекс
 
 ## Документи
 
-### Заміри БТІ
+### Проектна документація
 
-- [Будинок 1](https://sg-7.com/public/files/docs/bti/dom-1_bti.pdf)
-- [Будинок 2](https://sg-7.com/public/files/docs/bti/dom-2_bti.pdf)
+- Більшість відповідей на питання про конструкцію, використані матеріали, характеристики інженерних
+  систем (водопровід, каналізація, опалення, електроенергія, вентиляція, протипожежні системи),
+  тощо є в документі [Опис об’єкту](/wiki/complex/opis.docx). Радимо ознайомитися.
+- [Генплан ЖК](/wiki/complex/seven_genplan_24-11-2016.pdf)
+- Схема облаштування прибудинкової території: [будинки 1-2](/wiki/complex/pribudinkova_terytoria_1_2.pdf)
+- [Схема освітлення](/wiki/complex/shema_sveta.pdf)
+- Специфікація ліфтів: [будинки 1-2](/wiki/complex/lifts_1_2.pdf)
+- Вікна: [будинок 1](/wiki/complex/windows_1.pdf), будинок 2 — ??
+
+### Експертизи
+
+- [Аудит ризиків придбання](/work/complex/risks_of_purchase.pdf)
+- [Аудиторський висновок фінансової звітності ТОВ Будкепітал за 2016 рік](/work/complex/audit_visnovki_2016.pdf)
+
+### Робоча документація
+
+- Електротехнічні рішення: Будинок 1 – ??, [Будинок 2](/work/complex/Working_documentation_home_2.pdf)
+- Використана плитка: [Будинки 1-2](/work/complex/plitka_1_2.xls)
+
+### Введення в експлуатацію
+
+- Сертифікат ДАБІ: [будинки 1-2](/work/complex/vvedennya_v_ekspluatatsiyu_1-2_cherha.pdf)
+- Заміри БТІ: [будинок 1](/work/complex/dom-1_bti.pdf), [будинок 2](/work/complex/dom-2_bti.pdf)
