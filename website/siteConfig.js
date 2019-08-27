@@ -93,11 +93,7 @@ const siteConfig = {
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
-      'https://buttons.github.io/buttons.js',
-       {
-         src: 'https://static.hotjar.com/c/hotjar-1460765.js?sv=6',
-         async: true,
-       },
+      'https://buttons.github.io/buttons.js'
   ],
 
   // On page navigation for the current documentation page.

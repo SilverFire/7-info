@@ -7,7 +7,7 @@
 
 const React = require('react');
 
-class Footer extends React.Component {
+class DefaultFooter extends React.Component {
   docUrl(doc, language) {
     const baseUrl = this.props.config.baseUrl;
     const docsUrl = this.props.config.docsUrl;
@@ -125,4 +125,13 @@ class Footer extends React.Component {
   }
 }
 
-module.exports = () => '';
+const HotJar = require('./HotJar');
+const footer = function () {
+  return (
+      <footer className="nav-footer" id="footer">
+          <HotJar/>
+      </footer>
+  );
+};
+
+module.exports = footer;
