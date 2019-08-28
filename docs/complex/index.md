@@ -34,7 +34,6 @@ title: Інформація про комплекс
 - [Генплан ЖК](/wiki/complex/seven_genplan_24-11-2016.pdf)
 - Схема облаштування прибудинкової території: [будинки 1-2](/wiki/complex/pribudinkova_terytoria_1_2.pdf)
 - [Схема освітлення](/wiki/complex/shema_sveta.pdf)
-- Специфікація ліфтів: [будинки 1-2](/wiki/complex/lifts_1_2.pdf)
 - Вікна: [будинок 1](/wiki/complex/windows_1.pdf), будинок 2 — ??
 
 ### Експертизи
@@ -46,6 +45,7 @@ title: Інформація про комплекс
 
 - Електротехнічні рішення: Будинок 1 – ??, [Будинок 2](/work/complex/Working_documentation_home_2.pdf)
 - Використана плитка: [Будинки 1-2](/work/complex/plitka_1_2.xls)
+- Специфікація ліфтів: [будинки 1-2](/wiki/complex/lifts_1_2.pdf)
 
 ### Введення в експлуатацію
 
