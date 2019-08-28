@@ -26,10 +26,10 @@ const siteConfig = {
   gaGtag: true,
   editUrl: 'https://github.com/SilverFire/7-info/edit/master/docs/',
 
-  // algolia: {
-  //   apiKey: '',
-  //   indexName: '7-info',
-  // },
+  algolia: {
+    apiKey: 'fe0819a31f4d1c951c4835b6e4a3a6ac',
+    indexName: '7-info',
+  },
 
   title: 'ЖК Seven', // Title for your website.
   tagline: 'Портал комплексу',
@@ -52,7 +52,7 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     {blog: true, label: 'Новини'},
-    // { search: true }
+    { search: true }
   ],
 
   // If you have users set above, you add it here:
