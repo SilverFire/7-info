@@ -52,6 +52,12 @@ title: Інформація про комплекс
 - Сертифікат ДАБІ: [будинки 1-2](/work/complex/vvedennya_v_ekspluatatsiyu_1-2_cherha.pdf)
 - Заміри БТІ: [будинок 1](/work/complex/dom-1_bti.pdf), [будинок 2](/work/complex/dom-2_bti.pdf)
 
+### Матеріали квартир
+
+- Радіатори опалення PURMO CV22 ([специфікація](/wiki/complex/PURMO_CV22.pdf))
+- Вхідні двері ABWEHR AM(2)-277 розміром 2700x980мм ([сайт виробника](https://xn--80acdajfcy2ed.xn--j1amh/constructor/fernanda.html),
+  [фотографіЇ+обговорення в чаті](https://t.me/Seven_chat/25800))
+
 ## Корисна інформація
 
 - [Сонячна активність навколо ЖК](https://www.suncalc.org/#/50.3988,30.6129,16.823188789538015/2019.08.01/11:57/1/0). За посиланням — літня,
