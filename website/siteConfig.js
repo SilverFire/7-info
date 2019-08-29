@@ -33,6 +33,9 @@ const siteConfig = {
 
   title: 'ЖК Seven', // Title for your website.
   tagline: 'Портал комплексу',
+
+  description: 'База знань ЖК Севен, телеграм ЖК Севен, форум ЖК Севен',
+
   url: 'https://7-info.pp.ua', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -52,7 +55,7 @@ const siteConfig = {
     // {doc: 'doc4', label: 'API'},
     // {page: 'help', label: 'Help'},
     {blog: true, label: 'Новини'},
-    { search: true }
+    {search: true}
   ],
 
   // If you have users set above, you add it here:
