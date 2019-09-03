@@ -38,19 +38,19 @@ title: Інформація про комплекс
 
 ### Експертизи
 
-- [Аудит ризиків придбання](/work/complex/risks_of_purchase.pdf)
-- [Аудиторський висновок фінансової звітності ТОВ Будкепітал за 2016 рік](/work/complex/audit_visnovki_2016.pdf)
+- [Аудит ризиків придбання](/wiki/complex/risks_of_purchase.pdf)
+- [Аудиторський висновок фінансової звітності ТОВ Будкепітал за 2016 рік](/wiki/complex/audit_visnovki_2016.pdf)
 
 ### Робоча документація
 
-- Електротехнічні рішення: Будинок 1 – ??, [Будинок 2](/work/complex/Working_documentation_home_2.pdf)
-- Використана плитка: [Будинки 1-2](/work/complex/plitka_1_2.xls)
+- Електротехнічні рішення: Будинок 1 – ??, [Будинок 2](/wiki/complex/Working_documentation_home_2.pdf)
+- Використана плитка: [Будинки 1-2](/wiki/complex/plitka_1_2.xls)
 - Специфікація ліфтів: [будинки 1-2](/wiki/complex/lifts_1_2.pdf)
 
 ### Введення в експлуатацію
 
-- Сертифікат ДАБІ: [будинки 1-2](/work/complex/vvedennya_v_ekspluatatsiyu_1-2_cherha.pdf)
-- Заміри БТІ: [будинок 1](/work/complex/dom-1_bti.pdf), [будинок 2](/work/complex/dom-2_bti.pdf)
+- Сертифікат ДАБІ: [будинки 1-2](/wiki/complex/vvedennya_v_ekspluatatsiyu_1-2_cherha.pdf)
+- Заміри БТІ: [будинок 1](/wiki/complex/dom-1_bti.pdf), [будинок 2](/wiki/complex/dom-2_bti.pdf)
 
 ### Матеріали квартир
 
