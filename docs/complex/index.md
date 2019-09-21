@@ -54,9 +54,13 @@ title: Інформація про комплекс
 
 ### Матеріали квартир
 
-- Радіатори опалення PURMO CV22 ([специфікація](/wiki/complex/PURMO_CV22.pdf))
+- Радіатори опалення PURMO CV22
+  ([специфікація](/wiki/complex/PURMO_CV22.pdf)) або VOGEL&NOOT 22 KV
+  ([специфікація](https://www.vogelundnoot.com/ua/producti/ventilnie_radiatori.htm))
 - Вхідні двері ABWEHR AM(2)-277 розміром 2700x980мм ([сайт виробника](https://xn--80acdajfcy2ed.xn--j1amh/constructor/fernanda.html),
   [фотографіЇ+обговорення в чаті](https://t.me/Seven_chat/25800))
+- Перегородки з керамзитбетонного блоку Ковальська
+  [сайт виробника](https://shop.kovalska.com/catalog/stroitelnie-bloki/keramzitobetonnie/)
 
 ## Корисна інформація
 
