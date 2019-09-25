@@ -6,8 +6,8 @@ title: Інформація про комплекс
 ## Джерала інформації
 
 - Цей сайт :)
-- Слідкуйте за новинами в телеграм-каналі [@Seven_news1](https://t.me/Seven_news1)
-- Приєднуйтесь в чати:
+- Слідкуйте за всіми новинами в телеграм-каналі [@Seven_news1](https://t.me/Seven_news1)
+- Спілкуйтесь з сусідами в чатах:
   - Загальний чат [@Seven_chat](https://t.me/Seven_chat)
   - [Будинок 1](https://t.me/sev1ab)
   - [Будинок 2](https://t.me/joinchat/FvthThVbr2z2NkEE11aUCw)
