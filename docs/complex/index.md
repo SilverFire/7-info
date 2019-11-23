@@ -15,6 +15,7 @@ title: Інформація про комплекс
   - [Будинок 4](https://t.me/Seven_4)
   - [Будинок 5](https://t.me/joinchat/AAAAAFgloUiHjmnzdX1uEg)
   - [Будинок 6](https://t.me/joinchat/Ajk1fhI7RNJoxCeZ5RJ5mA)
+  - [Паркінг](https://t.me/joinchat/J4efN0p9MJySStrw-z_hJg)
 - Долучайтесь до тем розділу про ЖК Seven на форумі [forum.domik.ua](http://forum.domik.ua/seven-f446.html):
   - [Загальна тема](http://forum.domik.ua/zhk-seven-dneprovskaya-naberezhnaya-18-stolitsa-group-t30153-4800.html)
   - [Будинок 1](http://forum.domik.ua/dom-1-zhk-seven-t32089.html)
