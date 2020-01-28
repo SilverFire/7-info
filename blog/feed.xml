@@ -5,14 +5,14 @@
         <link>https://7-info.pp.ua/blog</link>
         <description>The best place to stay up-to-date with the latest ЖК Seven news and events.</description>
         <lastBuildDate>Fri, 23 Aug 2019 06:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>Feed for Node.js</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>ЖК Seven Blog</title>
             <url>https://7-info.pp.ua/img/favicon.png</url>
             <link>https://7-info.pp.ua/blog</link>
         </image>
-        <copyright>Copyright © 2019-2019 – Ініціативна група</copyright>
+        <copyright>Copyright © 2019-2020 – Ініціативна група</copyright>
         <item>
             <title><![CDATA[Запуск бази знань]]></title>
             <link>https://7-info.pp.ua/blog/2019/08/23/start.html</link>
