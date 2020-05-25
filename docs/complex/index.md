@@ -13,7 +13,7 @@ title: Інформація про комплекс
   - [Будинок 2](https://t.me/joinchat/FvthThVbr2z2NkEE11aUCw)
   - [Будинок 3](https://t.me/seven3ab)
   - [Будинок 4](https://t.me/Seven_4)
-  - [Будинок 5](https://t.me/joinchat/AAAAAFgloUiHjmnzdX1uEg)
+  - [Будинок 5](https://t.me/sevenFive)
   - [Будинок 6](https://t.me/joinchat/Ajk1fhI7RNJoxCeZ5RJ5mA)
   - [Паркінг](https://t.me/joinchat/J4efN0p9MJySStrw-z_hJg)
 - Долучайтесь до тем розділу про ЖК Seven на форумі [forum.domik.ua](http://forum.domik.ua/seven-f446.html):
