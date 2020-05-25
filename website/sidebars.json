@@ -8,7 +8,10 @@
       "complex/management",
       "complex/service-providers",
       "complex/special-offers",
-      "complex/initiatives"
+      "complex/initiatives",
+      "complex/intercom",
+      "complex/ask-developer",
+      "complex/ownership"
     ],
     "Прийом робіт": [
       "acceptance/view",
