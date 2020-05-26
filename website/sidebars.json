@@ -11,7 +11,8 @@
       "complex/initiatives",
       "complex/intercom",
       "complex/ask-developer",
-      "complex/ownership"
+      "complex/ownership",
+      "complex/zip-code"
     ],
     "Прийом робіт": [
       "acceptance/view",
