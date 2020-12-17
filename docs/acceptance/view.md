@@ -16,3 +16,8 @@ title: Перегляди
 ## Будинок 2
 
 - **23.08.2019**: Заплановано перегляди на 27.08.2019, [розклад тут](https://docs.google.com/spreadsheets/d/1C3wSpgtl3nW6l5f_vqWdwfnDVhAS0YuCwSlMXC3gcUc/edit#gid=0). Якщо претензій немає, можна одразу отримати ключі на ремонт [обговорення](https://t.me/Seven_chat/25106)
+
+## Будинок 4
+
+- **12.11.2020**: Згiдно оголошення:
+![](/wiki/acceptance/photo_2020-12-17_18-39-53.jpg)
