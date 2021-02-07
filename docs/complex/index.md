@@ -36,6 +36,8 @@ title: Інформація про комплекс
 - Схема облаштування прибудинкової території: [будинки 1-2](/wiki/complex/pribudinkova_terytoria_1_2.pdf)
 - [Схема освітлення](/wiki/complex/shema_sveta.pdf)
 - Вікна: [будинок 1](/wiki/complex/windows_1.pdf), будинок 2 — ??
+- Будинок 3: [Скління балконів](/wiki/complex/Balcony_glazing_(01.12.20).pdf)
+- Рекомендації інвесторам щодо ремонту [будинок 3 і 4](/wiki/complex/Recommendation_for_investors_3_4.docx)
 
 ### Експертизи
 
