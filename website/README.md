@@ -10,13 +10,14 @@ This website was created with [Docusaurus](https://docusaurus.io/).
 
 # Get Started in 5 Minutes
 
-1. Make sure all the dependencies for the website are installed:
+1. Install [yarn](https://classic.yarnpkg.com/en/docs/install) in your system:
+2. Go into `website` directory and make sure that all the dependencies for the website are installed:
 
 ```sh
 # Install dependencies
-$ yarn
+$ cd website && yarn install
 ```
-2. Run your dev server:
+3. Run your dev server:
 
 ```sh
 # Start the site
